@@ -1,0 +1,51 @@
+body {
+	font: 0.75em Helvetica, sans-serif;
+	width: 60%;
+	margin: 40px auto 60px auto;
+	padding: 0;
+}
+
+h1 {
+	font-size: 1.5em;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	border-bottom: 1px solid #000;
+}
+
+h2 {
+	font-size: 1.25em;
+	font-weight: lighter;
+}
+
+#container {
+  height: 100px;
+  /*margin: 5px;*/
+  /*border: 1px solid #000;*/
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  margin-left: 5px;
+  display: inline-block;
+}
+
+.one {
+  background-color: burlywood;
+}
+
+.two {
+  background-color: #8C001A;
+}
+
+.three {
+  background-color: grey;
+}
+
+.four {
+  background-color: lightblue;
+}
+
+.footer {
+  font-size: 1.25 em;
+}
